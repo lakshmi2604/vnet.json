@@ -1,0 +1,2 @@
+# vnet.json
+azure templet
